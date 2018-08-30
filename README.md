@@ -6,7 +6,7 @@
 3. [浮动和清浮动](https://github.com/luoshaoxiong/blog/issues/3)
 4. 垂直居中的几种方案
 5. 常见布局：圣杯、双飞翼、瀑布流、两栏
-...
+6. ...
 
 ### JavaScript浅析
 1. this和apply、call、bind
@@ -20,4 +20,6 @@
 9. 任务队列和EventLoop
 10. 构造对象和new
 11. 类型转换
-...
+12. [ 数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
+13. 数组方法（下）
+14. ...
