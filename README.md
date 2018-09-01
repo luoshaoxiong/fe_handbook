@@ -13,7 +13,7 @@
 2. 原型和原型链
 3. 作用域和作用域链
 4. 可变和不可变对象
-5. 闭包
+5. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/4)
 6. IIFE
 7. 运算符和优先级
 8. 定时器和节流防抖
