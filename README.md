@@ -21,5 +21,5 @@
 10. 构造对象和new
 11. 类型转换
 12. [ 数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
-13. 数组方法（下）
+13. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
 14. ...
