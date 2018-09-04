@@ -14,7 +14,7 @@
 3. 作用域和作用域链
 4. 可变和不可变对象
 5. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
-6. IIFE
+6. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
 7. 运算符和优先级
 8. 定时器和节流防抖
 9. 任务队列和EventLoop
