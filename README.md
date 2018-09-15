@@ -1,5 +1,15 @@
 # 大雄的前端宝典
 
+### HTML浅析
+1. doctype
+2. meta
+3. html和xhtml
+4. cookies、sessionStorage 和 localStorage
+5. <script>、<script async> 和 <script defer>
+6. 响应式和自适应
+7. FOUC (无样式内容闪烁)
+8. ...
+
 ### CSS浅析
 1. [外边距合并篇](https://github.com/luoshaoxiong/blog/issues/1)
 2. [详细讲讲BFC](https://github.com/luoshaoxiong/blog/issues/2)
@@ -14,7 +24,7 @@
 11. 优雅降级和渐进增强
 12. 伪元素
 13. 合成层
-...
+14. ...
 
 ### JavaScript浅析
 1. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
@@ -42,4 +52,18 @@
 23. 变量提升
 24. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
 25. 继承
-...
+26. ...
+
+
+### 安全
+1. XSS
+2. CSRF
+3. http和https
+4. ...
+
+### 其他
+1. 布局、重绘和回流
+2. 从url到页面显示的过程
+3. ...
+
+### 网络相关
