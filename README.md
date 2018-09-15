@@ -6,7 +6,15 @@
 3. [浮动和清浮动](https://github.com/luoshaoxiong/blog/issues/3)
 4. 垂直居中的几种方案
 5. 常见布局：圣杯、双飞翼、瀑布流、两栏
-6. ...
+6. 选择器和优先级
+7. 属性继承
+8. 层叠上下文
+9. normalize和reset
+10. 定位
+11. 优雅降级和渐进增强
+12. 伪元素
+13. 合成层
+...
 
 ### JavaScript浅析
 1. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
@@ -20,7 +28,7 @@
 9. 任务队列和EventLoop
 10. 构造对象和new
 11. 宿主对象、原生对象、内置对象
-12. [ 数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
+12. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
 13. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
 14. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
 15. null，undefined 或 undeclared
