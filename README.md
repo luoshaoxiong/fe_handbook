@@ -35,7 +35,7 @@
 6. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
 7. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
 8. 定时器和节流防抖
-9. 任务队列和EventLoop
+9. [任务队列和EventLoop](https://github.com/luoshaoxiong/fe_handbook/issues/14)
 10. 构造对象和new
 11. 宿主对象、原生对象、内置对象
 12. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
