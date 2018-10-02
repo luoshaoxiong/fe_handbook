@@ -53,7 +53,7 @@
 24. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
 25. 继承
 26. 柯里化
-27. 同源策略和跨域
+27. [同源策略和跨域](https://github.com/luoshaoxiong/fe_handbook/issues/18)
 28. ...
 
 
