@@ -27,40 +27,42 @@
 14. ...
 
 ### JavaScript浅析
-1. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
-2. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
-3. [作用域和作用域链](https://github.com/luoshaoxiong/fe_handbook/issues/10)
-4. 可变和不可变对象
-5. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
-6. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
-7. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
-8. [定时器和节流防抖](https://github.com/luoshaoxiong/fe_handbook/issues/15)
-9. [任务队列和EventLoop](https://github.com/luoshaoxiong/fe_handbook/issues/14)
-10. [构造对象和new](https://github.com/luoshaoxiong/fe_handbook/issues/16)
-11. 宿主对象、原生对象、内置对象
-12. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
-13. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
-14. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
-15. null，undefined 或 undeclared
-16. AMD、CommonJS、ES6模块化
-17. Ajax
-18. 事件代理
-19. 事件捕获和冒泡
-20. attribute" 和 "property"
-21. document load 和 document DOMContentLoaded
-22. Promise
-23. 变量提升
-24. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
-25. 继承
-26. 柯里化
-27. [同源策略和跨域](https://github.com/luoshaoxiong/fe_handbook/issues/18)
-28. ...
-
+1. let、var 和 const[this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
+2. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
+3. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
+4. null、undefined 和 undeclared
+5. 变量提升
+6. [作用域和作用域链](https://github.com/luoshaoxiong/fe_handbook/issues/10)
+7. 普通函数和箭头函数
+8. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
+9. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
+10. 函数柯里化
+11. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
+12. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
+13. 可变和不可变对象
+14. 宿主对象、原生对象、内置对象
+15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
+16. 对象方法
+17. [构造对象和 new](https://github.com/luoshaoxiong/fe_handbook/issues/16)
+18. 继承
+19. AMD、CommonJS、ES6模块化
+20. 浅拷贝和深拷贝
+21. [定时器和节流防抖](https://github.com/luoshaoxiong/fe_handbook/issues/15)
+22. [任务队列和 EventLoop](https://github.com/luoshaoxiong/fe_handbook/issues/14)
+23. Promise 用法和实现
+24. Ajax 原理和实现
+25. [同源策略和跨域](https://github.com/luoshaoxiong/fe_handbook/issues/18)
+26. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
+27. 事件代理
+28. 事件捕获和冒泡
+29. attribute 和 property
+30. document load 和 document DOMContentLoaded
+31. ...
 
 ### 安全
 1. XSS
-2. [CSRF的攻击和防御](https://github.com/luoshaoxiong/fe_handbook/issues/12)
-3. [http和https](https://github.com/luoshaoxiong/fe_handbook/issues/13)
+2. [CSRF 的攻击和防御](https://github.com/luoshaoxiong/fe_handbook/issues/12)
+3. [http 和 https](https://github.com/luoshaoxiong/fe_handbook/issues/13)
 4. ...
 
 ### 其他
@@ -69,3 +71,8 @@
 3. ...
 
 ### 网络相关
+1. TCP/IP
+2. get 和 post 以及其他请求方式
+3. 状态码
+4. ...
+
