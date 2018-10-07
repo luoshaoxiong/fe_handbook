@@ -27,7 +27,7 @@
 14. ...
 
 ### JavaScript浅析
-1. let、var 和 const[this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
+1. let、var 和 const
 2. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
 3. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
 4. null、undefined 和 undeclared
@@ -42,22 +42,23 @@
 13. 可变和不可变对象
 14. 宿主对象、原生对象、内置对象
 15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
-16. 对象方法
-17. [构造对象和 new](https://github.com/luoshaoxiong/fe_handbook/issues/16)
-18. 继承
-19. AMD、CommonJS、ES6模块化
-20. 浅拷贝和深拷贝
-21. [定时器和节流防抖](https://github.com/luoshaoxiong/fe_handbook/issues/15)
-22. [任务队列和 EventLoop](https://github.com/luoshaoxiong/fe_handbook/issues/14)
-23. Promise 用法和实现
-24. Ajax 原理和实现
-25. [同源策略和跨域](https://github.com/luoshaoxiong/fe_handbook/issues/18)
-26. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
-27. 事件代理
-28. 事件捕获和冒泡
-29. attribute 和 property
-30. document load 和 document DOMContentLoaded
-31. ...
+16. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
+17. 对象方法
+18. [构造对象和 new](https://github.com/luoshaoxiong/fe_handbook/issues/16)
+19. 继承
+20. AMD、CommonJS、ES6模块化
+21. 浅拷贝和深拷贝
+22. [定时器和节流防抖](https://github.com/luoshaoxiong/fe_handbook/issues/15)
+23. [任务队列和 EventLoop](https://github.com/luoshaoxiong/fe_handbook/issues/14)
+24. Promise 用法和实现
+25. Ajax 原理和实现
+26. [同源策略和跨域](https://github.com/luoshaoxiong/fe_handbook/issues/18)
+27. 浏览器特性检测，特性推断和浏览器 UA 字符串嗅探
+28. 事件代理
+29. 事件捕获和冒泡
+30. attribute 和 property
+31. document load 和 document DOMContentLoaded
+32. ...
 
 ### 安全
 1. XSS
@@ -71,7 +72,7 @@
 3. ...
 
 ### 网络相关
-1. TCP/IP
+1. TCP / IP
 2. get 和 post 以及其他请求方式
 3. 状态码
 4. ...
