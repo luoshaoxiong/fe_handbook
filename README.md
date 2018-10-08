@@ -40,7 +40,7 @@
 11. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
 12. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
 13. 可变和不可变对象
-14. 宿主对象、原生对象、内置对象
+14. [原生对象、内置对象、宿主对象](https://github.com/luoshaoxiong/fe_handbook/issues/20)
 15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
 16. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
 17. 对象方法
