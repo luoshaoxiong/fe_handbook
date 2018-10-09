@@ -27,18 +27,18 @@
 14. ...
 
 ### JavaScript浅析
-1. let、var 和 const
-2. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
-3. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
-4. null、undefined 和 undeclared
-5. 变量提升
-6. [作用域和作用域链](https://github.com/luoshaoxiong/fe_handbook/issues/10)
-7. 普通函数和箭头函数
-8. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
-9. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
-10. 函数柯里化
-11. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
-12. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
+1. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
+2. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
+3. null、undefined 和 undeclared
+4. 变量提升
+5. [作用域和作用域链](https://github.com/luoshaoxiong/fe_handbook/issues/10)
+6. 普通函数和箭头函数
+7. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
+8. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
+9. 函数柯里化
+10. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
+11. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
+12. [属性描述对象](https://github.com/luoshaoxiong/blog/issues/21)
 13. 可变和不可变对象
 14. [原生对象、内置对象、宿主对象](https://github.com/luoshaoxiong/fe_handbook/issues/20)
 15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
@@ -58,7 +58,8 @@
 29. 事件捕获和冒泡
 30. attribute 和 property
 31. document load 和 document DOMContentLoaded
-32. ...
+32. let、var 和 const
+33. ...
 
 ### 安全
 1. XSS
