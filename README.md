@@ -39,7 +39,7 @@
 10. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
 11. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
 12. [属性描述对象](https://github.com/luoshaoxiong/blog/issues/21)
-13. 可变和不可变对象
+13. [可变和不可变对象](https://github.com/luoshaoxiong/fe_handbook/issues/22)
 14. [原生对象、内置对象、宿主对象](https://github.com/luoshaoxiong/fe_handbook/issues/20)
 15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
 16. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
