@@ -35,7 +35,7 @@
 6. 普通函数和箭头函数
 7. [闭包](https://github.com/luoshaoxiong/fe_handbook/issues/5)
 8. [IIFE](https://github.com/luoshaoxiong/fe_handbook/issues/7)
-9. 函数柯里化
+9. [函数柯里化](https://github.com/luoshaoxiong/fe_handbook/issues/23)
 10. [数组方法（上）](https://github.com/luoshaoxiong/blog/issues/4)
 11. [数组方法（下）](https://github.com/luoshaoxiong/blog/issues/6)
 12. [属性描述对象](https://github.com/luoshaoxiong/blog/issues/21)
