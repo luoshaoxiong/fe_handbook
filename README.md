@@ -11,19 +11,19 @@
 8. ...
 
 ### CSS浅析
-1. [外边距合并篇](https://github.com/luoshaoxiong/blog/issues/1)
-2. [详细讲讲BFC](https://github.com/luoshaoxiong/blog/issues/2)
-3. [浮动和清浮动](https://github.com/luoshaoxiong/blog/issues/3)
-4. 垂直居中的几种方案
-5. 常见布局：圣杯、双飞翼、瀑布流、两栏
-6. 选择器和优先级
-7. 属性继承
-8. 层叠上下文
-9. normalize和reset
-10. 定位
-11. 优雅降级和渐进增强
-12. 伪元素
-13. 合成层
+1. 选择器和优先级
+2. 属性继承
+3. [外边距合并篇](https://github.com/luoshaoxiong/blog/issues/1)
+4. [详细讲讲BFC](https://github.com/luoshaoxiong/blog/issues/2)
+5. [浮动和清浮动](https://github.com/luoshaoxiong/blog/issues/3)
+6. position
+7. 垂直居中的几种方案
+8. 常见布局：圣杯、双飞翼、瀑布流、两栏
+9. 层叠上下文
+10. 合成层
+11. 伪元素
+12. 优雅降级和渐进增强
+13. normalize 和 reset
 14. ...
 
 ### JavaScript浅析
@@ -42,7 +42,7 @@
 13. [可变和不可变对象](https://github.com/luoshaoxiong/fe_handbook/issues/22)
 14. [原生对象、内置对象、宿主对象](https://github.com/luoshaoxiong/fe_handbook/issues/20)
 15. [原型和原型链](https://github.com/luoshaoxiong/fe_handbook/issues/17)
-16. [this和apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
+16. [this 和 apply、call、bind](https://github.com/luoshaoxiong/fe_handbook/issues/11)
 17. 对象方法
 18. [构造对象和 new](https://github.com/luoshaoxiong/fe_handbook/issues/16)
 19. 继承
