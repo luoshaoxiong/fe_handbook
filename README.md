@@ -29,7 +29,7 @@
 ### JavaScript浅析
 1. [类型转换和==、===比较](https://github.com/luoshaoxiong/blog/issues/8)
 2. [运算符和优先级](https://github.com/luoshaoxiong/fe_handbook/issues/9)
-3. null、undefined 和 undeclared
+3. [null、undefined](https://github.com/luoshaoxiong/fe_handbook/issues/24)
 4. 变量提升
 5. [作用域和作用域链](https://github.com/luoshaoxiong/fe_handbook/issues/10)
 6. 普通函数和箭头函数
