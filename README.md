@@ -68,7 +68,7 @@
 4. ...
 
 ### 其他
-1. 布局、重绘和回流
+1. 页面渲染、重绘和回流
 2. [从 url 到页面显示的过程](https://github.com/luoshaoxiong/fe_handbook/issues/26)
 3. ...
 
