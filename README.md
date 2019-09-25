@@ -24,4 +24,4 @@
 22. [CSRF 的攻击和防御](https://github.com/luoshaoxiong/fe_handbook/issues/12)
 23. [http 和 https](https://github.com/luoshaoxiong/fe_handbook/issues/13)
 24. [强缓存和协商缓存](https://github.com/luoshaoxiong/fe_handbook/issues/25)
-25. 从 URL 到页面展现的过程
+25. [从 URL 到页面展现的过程](https://github.com/luoshaoxiong/fe_handbook/issues/26)
